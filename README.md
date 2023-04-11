@@ -41,9 +41,9 @@ width="200"
 width="200"
 hspace="10" vspace="10">](/readme/ss3.png)
 
-[<img src="/readme/ss4.png" align="left"
+[<img src="/readme/ss7.png" align="left"
 width="200"
-hspace="10" vspace="10">](/readme/ss4.png)
+hspace="10" vspace="10">](/readme/ss7.png)
 [<img src="/readme/ss5.png" align="center"
 width="200"
 hspace="10" vspace="10">](/readme/ss5.png)
