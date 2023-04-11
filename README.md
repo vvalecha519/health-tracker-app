@@ -59,10 +59,14 @@ The only addition that is required to run the app is that within the src/main/re
 and have 2 string resources with name="api_key" and name="api_id". Then go to https://developer.nutritionix.com/ and create and account
 and use the the generated api_key and api_id. Here is a screenshot of the return file:
 
-<img src="/readme/app_icon.png" align="left"
+<img src="/readme/api.png"
 width="200" hspace="10" vspace="10">
 
+## Future Features
 
+-Add authentication system to prevent data from stored login
+-connect application to our backend instead of directly connecting to nutritionix
+-add different workout visuals and tutorial on how perform workout
 
 
 ## Contribution:
