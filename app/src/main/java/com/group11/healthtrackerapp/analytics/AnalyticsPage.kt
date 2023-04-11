@@ -53,7 +53,7 @@ class AnalyticsPage : AppCompatActivity() {
                     overridePendingTransition(0, 0)
                     return@setOnItemSelectedListener true
                 }
-                R.id.exercisePage -> {
+                R.id.exercisePage -> { 
                     startActivity(Intent(this, MonthlyExercisePage::class.java))
                     overridePendingTransition(0, 0)
                     return@setOnItemSelectedListener true
