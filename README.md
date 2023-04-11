@@ -74,3 +74,4 @@ In the near future we will be adding:
 
 ## Contribution:
 The app was developed by Vaibhav, Qixin, Shrey, Xinrui, Xianru, Ella
+Future development will be carried out by Vaibhav and Qixin
