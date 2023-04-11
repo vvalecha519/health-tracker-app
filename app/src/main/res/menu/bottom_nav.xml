@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Analytics"
+        android:icon="@drawable/analytics_vector"
+        android:id="@+id/analytics"/>
+    <item
+        android:title="Food Logging"
+        android:icon="@drawable/food_vector"
+        android:id="@+id/foodLog"/>
+    <item
+        android:title="Exercise Logging"
+        android:icon="@drawable/exercise_vector"
+        android:id="@+id/exercisePage"/>
+    <item
+        android:title="Settings"
+        android:icon="@drawable/settings"
+        android:id="@+id/settings"/>
+</menu>

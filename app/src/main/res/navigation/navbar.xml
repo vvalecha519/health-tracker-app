@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navbar"
+    app:startDestination="@id/monthlyExercisePage">
+
+    <activity
+        android:id="@+id/analytics"
+        android:name="com.group11.healthtrackerapp.analytics.AnalyticsPage"
+        android:label="Analytics"
+        android:layout="@layout/analytics_page"/>
+    <activity
+        android:id="@+id/foodLog"
+        android:name="com.group11.healthtrackerapp.FoodTracker.FoodLoggingActivity"
+        android:label="LogFood"
+        tools:layout="@layout/activity_food_logging" />
+    <activity
+        android:id="@+id/monthlyExercisePage"
+        android:name="com.group11.healthtrackerapp.ExerciseTracker.MonthlyExercisePage"
+        android:label="MonthlyExercise"
+        tools:layout="@layout/monthly_exercise_page" />
+</navigation>
