@@ -62,11 +62,14 @@ and use the the generated api_key and api_id. Here is a screenshot of the return
 <img src="/readme/api.png"
 width="200" hspace="10" vspace="10">
 
+After go to the run tab to start up the app, and start using it!
+
 ## Future Features
 
--Add authentication system to prevent data from stored login
--connect application to our backend instead of directly connecting to nutritionix
--add different workout visuals and tutorial on how perform workout
+In the near future we will be adding:
+- Add authentication system to prevent data from stored login
+- connect application to our backend instead of directly connecting to nutritionix
+- add different workout visuals and tutorial on how perform workout
 
 
 ## Contribution:
